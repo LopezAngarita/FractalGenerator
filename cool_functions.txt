@@ -1,0 +1,3 @@
+f = np.sin(a * z ** 4 + 1.41 + b)
+f = np.sin(z** 4 + 1.41 + a)*np.exp((2.4+b)*1.J)
+lambda z: np.sin(z** 4 + 1.41 + 3)*np.exp((2.5+0)*1.J)
