@@ -24,7 +24,7 @@ class FractalGenerator:
                 fractal -- numpy array with the fractal
         """
 
-    def __init__(self, n, xlim=(-2, 2), ylim=(-2, 2), thr=2, max_iter=10):
+    def __init__(self, n=256, xlim=(-2, 2), ylim=(-2, 2), thr=2, max_iter=10):
         self.type_ = None
         self.fractal = None
         self.n = n
