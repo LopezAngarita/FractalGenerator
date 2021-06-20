@@ -1,2 +1,5 @@
 .DS_Store
 .idea/
+fractal_generator/__pycache__/
+notebooks/.ipynb_checkpoints/
+.gitignore~
